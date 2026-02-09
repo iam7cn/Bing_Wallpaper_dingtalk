@@ -1,0 +1,2 @@
+# Bing_Wallpaper_dingtalk
+每天爬取必应壁纸并推送钉钉
